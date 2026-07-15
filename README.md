@@ -9,7 +9,6 @@ I focus on shipping complete systems: proper RBAC/ABAC, real database schemas, w
 * B.Tech Electronics Engineering (VLSI), Maharaja Agrasen Institute of Technology, Delhi — 2027
 * Web Development Intern @ CodSoft — building a job board platform and a project management tool
 * Strong focus on auth/authorization systems, full-stack architecture, and AI-integrated products
-* Currently deep in DSA + system design prep for SDE placements
 
 ### Featured Projects
 
@@ -19,7 +18,7 @@ An RBAC/ABAC authorization platform — org roles (OWNER/ADMIN/MEMBER), a billin
 
 Stack: `Next.js` `Hono` `Prisma` `Neon PostgreSQL` `Auth.js` `Turborepo`
 
-**[EchoEdu](https://github.com/tavishnew)**
+**[Echo](https://github.com/tavishnew)**
 
 Multilingual voice AI tutoring app with real-time speech interaction.
 
@@ -30,12 +29,6 @@ Stack: `React` `Groq AI` `ElevenLabs`
 Brand–influencer marketplace platform.
 
 Stack: `Next.js 14` `TypeScript` `Tailwind CSS` `Prisma`
-
-**[ChatApp](https://github.com/tavishnew/ChatApp)**
-
-Full-stack real-time chat app with AI chat, message batching, typing indicators, emoji reactions, and read receipts.
-
-Stack: `React` `Node.js` `Socket.io` `MongoDB` `Tailwind CSS`
 
 **[Pacman](https://github.com/tavishnew/Pacman)**
 
