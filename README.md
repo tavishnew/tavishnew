@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Tavish Sharma
+# Hi 👋, I'm Tavish 
 
 ### Full Stack Developer • AI Engineer • Building Production-Ready Systems
 
