@@ -1,33 +1,25 @@
 <div align="center">
 
-# Hi 👋, I'm Tavish 
+# Hi 👋, I'm Tavish Sharma
 
 ### Full Stack Developer • AI Engineer • Building Production-Ready Systems
 
-<p>
-I build scalable full-stack applications, AI-powered products, and backend systems with a strong focus on architecture, authentication, and performance.
-</p>
+I build scalable full-stack applications, AI-powered products, and backend systems with a strong focus on architecture, authentication, and performance. 
 
-<p>
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Application+Developer;Next.js+%7C+React+%7C+TypeScript;Building+Production-Ready+Projects;Always+Learning+Something+New" />
-</p>
 
-<p>
+<br><br>
 <a href="https://github.com/tavishnew">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://www.linkedin.com/in/tavish-sh/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+<a href="mailto:tavish0554@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=tavishnew&label=Profile%20Views&style=for-the-badge&color=0e75b6"/>
 
 </div>
 
@@ -35,238 +27,92 @@ I build scalable full-stack applications, AI-powered products, and backend syste
 
 # 🚀 About Me
 
-🎓 B.Tech Electronics Engineering (VLSI)  
-**Maharaja Agrasen Institute of Technology, Delhi**
+- 🎓 **B.Tech Electronics Engineering (VLSI)**  
+  Maharaja Agrasen Institute of Technology, Delhi (2027)
 
-💼 Web Development Intern @ **CodSoft**
+- 💼 **Web Development Intern** @ CodSoft
 
-💻 Passionate about building production-grade software rather than tutorial projects.
+- 💻 I enjoy building production-grade software that solves real problems instead of tutorial-style projects.
 
-I enjoy solving problems around
+- 🔒 Strong interest in:
+  - Authentication & Authorization
+  - AI Applications
+  - Backend Architecture
+  - SaaS Platforms
+  - System Design
 
-- Authentication & Authorization
-- AI-powered Applications
-- Backend Architecture
-- Real-time Systems
-- SaaS Platforms
-- Scalable APIs
-
-Currently learning
-
-- System Design (HLD/LLD)
-- AWS
-- LLM APIs
-- Distributed Systems
+- 🌱 Currently Learning:
+  - AWS
+  - Distributed Systems
+  - Advanced System Design
+  - LLM APIs
 
 ---
 
 # 🛠 Tech Stack
 
-## Languages
+### Languages
+`JavaScript` • `TypeScript` • `Python`
 
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,python"/>
-</p>
+### Frontend
+`React` • `Next.js` • `Tailwind CSS` • `HTML` • `CSS`
 
-## Frontend
+### Backend
+`Node.js` • `Express.js` • `Hono` • `FastAPI` • `Socket.IO`
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css"/>
-</p>
+### Databases
+`PostgreSQL` • `MongoDB` • `Prisma ORM` • `Neon`
 
-## Backend
+### Tools & Platforms
+`Git` • `GitHub` • `Docker` • `Cloudinary` • `Render` • `Netlify` • `Vercel`
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
-</p>
-
-## Database & Infrastructure
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,docker,git,github,vercel,netlify"/>
-</p>
+### Currently Learning
+`System Design` • `AWS` • `LLM APIs`
 
 ---
 
-# 🔥 Featured Projects
+# 🚀 Featured Projects
 
-## 🚀 Previx
-
-**Production-grade Authorization Platform**
-
-Features
-
-- RBAC + ABAC Authorization
-- Organization Roles
-- Policy Simulator
-- Usage Analytics
-- Billing Dashboard
-- Decision Logs
-
-**Tech**
-
-`Next.js`
-`TypeScript`
-`Prisma`
-`Neon PostgreSQL`
-`Auth.js`
-`Hono`
-
-🔗 https://github.com/tavishnew/Previx
-
----
-
-## 🤖 Echo
-
-**Multilingual AI Voice Tutor**
-
-Features
-
-- Speech Recognition
-- Text-to-Speech
-- Real-time AI Responses
-- Multiple Language Support
-
-**Tech**
-
-`React`
-`Groq`
-`ElevenLabs`
-
-🔗 https://github.com/tavishnew
-
----
-
-## 🎥 Reelink
-
-**Brand × Influencer Marketplace**
-
-Features
-
-- Authentication
-- Brand Dashboard
-- Creator Profiles
-- Modern UI
-- Project Marketplace
-
-**Tech**
-
-`Next.js 14`
-
-`TypeScript`
-
-`Tailwind CSS`
-
-`Prisma`
-
-🔗 https://github.com/tavishnew/Reelink
-
----
-
-## 👾 Pacman
-
-**Multiplayer Browser Game**
-
-Features
-
-- Multiplayer Gameplay
-- Retro Arcade Interface
-- Responsive Controls
-
-**Tech**
-
-`JavaScript`
-
-🔗 https://github.com/tavishnew/Pacman
-
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=tavishnew&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=tavishnew&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tavishnew&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tavishnew&theme=tokyo-night&hide_border=true"/>
-
-</div>
+| Project | Description |
+|---------|-------------|
+| **🔐 [Previx](https://github.com/tavishnew/Previx)** | **Production-grade authorization platform** with RBAC & ABAC, organization management, policy simulator, billing dashboard, usage tracking and decision logs.<br><br>**Tech:** `Next.js` • `TypeScript` • `Prisma` • `Neon PostgreSQL` • `Auth.js` • `Hono` |
+| **🤖 Echo** | **AI-powered multilingual voice tutor** featuring real-time speech recognition, AI tutoring, text-to-speech and multilingual conversations.<br><br>**Tech:** `React` • `Groq AI` • `ElevenLabs` |
+| **🎥 [Reelink](https://github.com/tavishnew/Reelink)** | **Brand × Influencer Marketplace** with authentication, creator profiles, brand dashboard and project management workflows.<br><br>**Tech:** `Next.js 14` • `TypeScript` • `Tailwind CSS` • `Prisma` |
+| **👾 [Pacman](https://github.com/tavishnew/Pacman)** | **Multiplayer browser-based Pacman game** featuring retro arcade gameplay and responsive controls.<br><br>**Tech:** `JavaScript` |
 
 ---
 
 # 🏆 Highlights
 
 - 💼 Web Development Intern @ CodSoft
-- 🚀 Built multiple production-grade full-stack applications
+- 🚀 Built multiple production-ready full-stack applications
 - 🤖 Passionate about AI-powered software
-- 🔒 Strong interest in Authentication & Authorization
-- 📚 Consistently improving DSA and System Design skills
+- 🔒 Strong interest in authentication and authorization systems
+- 📚 Consistently improving DSA and System Design
+- 🌱 Always learning new technologies and building side projects
 
 ---
 
-# 🌱 Currently Working On
+# 📌 Currently Working On
 
 - 🚀 Previx v2
 - 🤖 Echo AI
 - 🎥 Reelink
-- 📚 DSA for Placements
-- ☁ Learning AWS & Cloud Architecture
+- 📚 DSA & Placement Preparation
+- ☁ AWS & Cloud Architecture
 
 ---
 
 # 📫 Connect With Me
 
-<p align="left">
-
-<a href="https://github.com/tavishnew">
-GitHub
-</a>
-
-<br>
-
-<a href="https://www.linkedin.com/in/tavish-sh/">
-LinkedIn
-</a>
-
-<br>
-
-📧 YOUR_EMAIL
-
-</p>
+- **GitHub:** https://github.com/tavishnew
+- **LinkedIn:** https://www.linkedin.com/in/tavish-sh/
+- **Email:** tavish0554@gmail.com
 
 ---
 
 <div align="center">
 
-### 💭 Quote
-
-*"I enjoy building products that prioritize architecture, scalability, and reliability—not just completing tutorials."*
-
-</div>
-
----
-
-<div align="center">
-
-### Thanks for visiting my profile ❤️
-
-If you like my work, consider giving a ⭐ to my repositories.
+> *Building software that emphasizes thoughtful architecture, scalability, and practical impact.*
 
 </div>
