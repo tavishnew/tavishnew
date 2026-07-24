@@ -21,6 +21,6 @@ I build scalable full-stack applications and AI-powered software with a focus on
 - 🎥 **Reelink** — Brand × Influencer marketplace with authentication and project management.
 
 ### Connect
-- GitHub: https://github.com/tavishnew
-- LinkedIn: https://www.linkedin.com/in/tavish-sh/
+- - X (Twitter): https://x.com/Tavish54
+- LinkedIn: www.linkedin.com/in/tavish5h
 - Email: tavish0554@gmail.com
